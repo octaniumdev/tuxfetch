@@ -16,7 +16,7 @@ apk add musl-dev pciutils-dev
 cc tuxfetch.c -lpthread -lpci -O3 -o tuxfetch
 ```
 
-# Made with love by Cob:web Development and our Open source contributors:
+# Made with love by Cob:web-Aclevo and our Open source contributors:
 
 MathGeniusJodie - Lead Developer
 
